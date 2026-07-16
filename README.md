@@ -1,7 +1,5 @@
 # Awesome AI Visibility
 
-A concise developer playbook and curated collection for making websites, documentation, APIs, and open-source projects more discoverable, understandable, citable, and recommendable by AI systems.
-
 ## AI Visibility Playbook
 
 - [ ] **Publish `llms.txt` (emerging convention)**
@@ -49,11 +47,3 @@ A concise developer playbook and curated collection for making websites, documen
 - [ ] **Measure and iterate**
   - Track prompts, mentions, citations, accuracy, and source usage across models over time.
   - Re-test after releases and documentation updates; improve weak source pages first.
-
-## Contributing
-
-Contributions are welcome: add developer-relevant, maintained resources with objective descriptions and source links.
-
-## Related Terms
-
-AI visibility · AI SEO · AEO · GEO · LLM optimization
