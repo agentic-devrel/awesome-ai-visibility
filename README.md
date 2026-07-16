@@ -24,8 +24,8 @@ A concise developer playbook and curated collection for making websites, documen
   - Treat chunking-friendly formatting as a documentation/retrieval quality practice, not a proven AI-search ranking factor.
 
 - [ ] **Create answer-ready content and executable examples**
-  - Answer common developer questions directly (what it does, when to use it, trade-offs).
-  - Provide quickstarts, troubleshooting, migration guides, and runnable examples with expected output.
+  - Answer common questions directly (what it is, when to use it, and key trade-offs).
+  - Provide clear guides, troubleshooting, FAQs, and practical examples with expected outcomes.
 
 - [ ] **Improve technical discoverability**
   - Maintain `robots.txt`, XML sitemaps, canonical URLs, and clean internal linking.
@@ -35,16 +35,9 @@ A concise developer playbook and curated collection for making websites, documen
   - Use consistent product/org names, URLs, and descriptions across docs, repos, and registries.
   - Add accurate structured metadata (for example JSON-LD) where it helps disambiguation.
 
-- [ ] **Improve GitHub repository quality and metadata**
-  - Keep README setup/usage current; add topics, releases, tags, contribution and security guidance.
-  - Link packages/SDKs back to canonical documentation.
-
 - [ ] **Publish trustworthy sources and reproducible technical claims**
   - Prefer verifiable claims with methodology, dates, limitations, and reproducible steps.
   - Update or remove stale technical content.
-
-- [ ] **Distribute through developer ecosystems**
-  - Publish and maintain packages, SDKs, integrations, templates, and reference apps in relevant channels.
 
 - [ ] **Measure and iterate**
   - Track prompts, mentions, citations, accuracy, and source usage across models over time.
